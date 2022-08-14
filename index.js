@@ -1,4 +1,4 @@
-let $buttons = document.querySelectorAll("button");
+biarkan  $buttons  =  dokumen . querySelectorAll ( "tombol" );
 let ui = document.querySelector(".userEntry");
 let finalCalc = document.querySelector(".finalCalc");
 let opPressed = false;
